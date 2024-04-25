@@ -41,7 +41,7 @@ public class test1 {
 
 	@Test(priority = 3)
 	public void closebrowser() {
-		System.out.println("close");
+		System.out.println("close close close");
 		this.driver.close();
 
 	}
